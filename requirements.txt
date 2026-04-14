@@ -1,0 +1,6 @@
+python-binance
+rich
+typer
+pydantic
+python-dotenv
+questionary
