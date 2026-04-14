@@ -1,0 +1,64 @@
+2026-04-14 23:53:29,771 - trading_bot - INFO - Binance Client initialized on Testnet.
+2026-04-14 23:53:29,772 - trading_bot - INFO - Placing MARKET order: BUY 0.001 BTCUSDT
+2026-04-14 23:53:30,392 - trading_bot - INFO - MARKET order placed successfully: {'orderId': 13035282651, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ35b70cf14ca232b9a45f63', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776191011513}
+2026-04-14 23:53:48,095 - trading_bot - INFO - Binance Client initialized on Testnet.
+2026-04-14 23:53:48,095 - trading_bot - INFO - Placing LIMIT order: BUY 0.001 BTCUSDT at 50000.0
+2026-04-14 23:53:48,498 - trading_bot - INFO - LIMIT order placed successfully: {'orderId': 13035283169, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ780bd8bb5b7477742c03aa', 'price': '50000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776191029624}
+2026-04-14 23:54:02,320 - trading_bot - INFO - Binance Client initialized on Testnet.
+2026-04-14 23:54:02,320 - trading_bot - INFO - Starting TWAP order: BUY 0.005 BTCUSDT in 5 chunks every 10s
+2026-04-14 23:54:02,320 - trading_bot - INFO - TWAP Chunk 1/5: Placing MARKET order for 0.001
+2026-04-14 23:54:02,320 - trading_bot - INFO - Placing MARKET order: BUY 0.001 BTCUSDT
+2026-04-14 23:54:02,706 - trading_bot - INFO - MARKET order placed successfully: {'orderId': 13035283696, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ41ba26dca284a19801f96c', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776191043832}
+2026-04-14 23:54:12,707 - trading_bot - INFO - TWAP Chunk 2/5: Placing MARKET order for 0.001
+2026-04-14 23:54:12,707 - trading_bot - INFO - Placing MARKET order: BUY 0.001 BTCUSDT
+2026-04-14 23:54:12,863 - trading_bot - INFO - MARKET order placed successfully: {'orderId': 13035283900, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ2c1b717348e4e59b8deef9', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776191053982}
+2026-04-14 23:54:22,864 - trading_bot - INFO - TWAP Chunk 3/5: Placing MARKET order for 0.001
+2026-04-14 23:54:22,864 - trading_bot - INFO - Placing MARKET order: BUY 0.001 BTCUSDT
+2026-04-14 23:54:23,018 - trading_bot - INFO - MARKET order placed successfully: {'orderId': 13035284133, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1de57736e8e1230199cda1', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776191064135}
+2026-04-14 23:54:33,019 - trading_bot - INFO - TWAP Chunk 4/5: Placing MARKET order for 0.001
+2026-04-14 23:54:33,019 - trading_bot - INFO - Placing MARKET order: BUY 0.001 BTCUSDT
+2026-04-14 23:54:33,165 - trading_bot - INFO - MARKET order placed successfully: {'orderId': 13035284354, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa9f9ffa546b7663f1781fb', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776191074290}
+2026-04-14 23:54:43,167 - trading_bot - INFO - TWAP Chunk 5/5: Placing MARKET order for 0.001
+2026-04-14 23:54:43,167 - trading_bot - INFO - Placing MARKET order: BUY 0.001 BTCUSDT
+2026-04-14 23:54:43,318 - trading_bot - INFO - MARKET order placed successfully: {'orderId': 13035284562, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJd786675c1c31261b73f8a5', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776191084441}
+2026-04-14 23:57:20,868 - trading_bot - ERROR - CLI Error: 'OptionInfo' object has no attribute 'upper'
+2026-04-14 23:58:53 | ERROR    | CLI Error: 'OptionInfo' object has no attribute 'upper'
+2026-04-14 23:59:26 | ERROR    | CLI Error: 'OptionInfo' object has no attribute 'upper'
+2026-04-15 00:00:21 | INFO     | Binance Client initialized on Testnet.
+2026-04-15 00:00:21 | INFO     | [ORDER_REQUEST] TYPE: MARKET | SIDE: BUY | QTY: 0.002 | SYMBOL: BTCUSDT
+2026-04-15 00:00:21 | INFO     | [SUCCESS] ORDER_PLACED | ID: 13035293919 | STATUS: NEW | AVG_PRICE: 0.00
+2026-04-15 00:02:27 | INFO     | Binance Client initialized on Testnet.
+2026-04-15 00:02:27 | INFO     | [ORDER_REQUEST] TYPE: MARKET | SIDE: SELL | QTY: 0.002 | SYMBOL: BTCUSDT
+2026-04-15 00:02:27 | INFO     | [SUCCESS] ORDER_PLACED | ID: 13035296910 | STATUS: NEW | AVG_PRICE: 0.00
+2026-04-15 00:04:10 | INFO     | Binance Client initialized on Testnet.
+2026-04-15 00:04:10 | INFO     | [STRATEGY_START] TWAP | SIDE: BUY | TOTAL_QTY: 1.0 | SYMBOL: BTCUSDT | CHUNKS: 5
+2026-04-15 00:04:10 | INFO     | [TWAP_CHUNK] 1/5 | PLACING MARKET ORDER...
+2026-04-15 00:04:10 | INFO     | [ORDER_REQUEST] TYPE: MARKET | SIDE: BUY | QTY: 0.2 | SYMBOL: BTCUSDT
+2026-04-15 00:04:11 | INFO     | [SUCCESS] ORDER_PLACED | ID: 13035299317 | STATUS: NEW | AVG_PRICE: 0.00
+2026-04-15 00:04:21 | INFO     | [TWAP_CHUNK] 2/5 | PLACING MARKET ORDER...
+2026-04-15 00:04:21 | INFO     | [ORDER_REQUEST] TYPE: MARKET | SIDE: BUY | QTY: 0.2 | SYMBOL: BTCUSDT
+2026-04-15 00:04:21 | INFO     | [SUCCESS] ORDER_PLACED | ID: 13035299591 | STATUS: NEW | AVG_PRICE: 0.00
+2026-04-15 00:04:31 | INFO     | [TWAP_CHUNK] 3/5 | PLACING MARKET ORDER...
+2026-04-15 00:04:31 | INFO     | [ORDER_REQUEST] TYPE: MARKET | SIDE: BUY | QTY: 0.2 | SYMBOL: BTCUSDT
+2026-04-15 00:04:31 | INFO     | [SUCCESS] ORDER_PLACED | ID: 13035299839 | STATUS: NEW | AVG_PRICE: 0.00
+2026-04-15 00:04:41 | INFO     | [TWAP_CHUNK] 4/5 | PLACING MARKET ORDER...
+2026-04-15 00:04:41 | INFO     | [ORDER_REQUEST] TYPE: MARKET | SIDE: BUY | QTY: 0.2 | SYMBOL: BTCUSDT
+2026-04-15 00:04:41 | INFO     | [SUCCESS] ORDER_PLACED | ID: 13035300079 | STATUS: NEW | AVG_PRICE: 0.00
+2026-04-15 00:04:51 | INFO     | [TWAP_CHUNK] 5/5 | PLACING MARKET ORDER...
+2026-04-15 00:04:51 | INFO     | [ORDER_REQUEST] TYPE: MARKET | SIDE: BUY | QTY: 0.2 | SYMBOL: BTCUSDT
+2026-04-15 00:04:51 | INFO     | [SUCCESS] ORDER_PLACED | ID: 13035300418 | STATUS: NEW | AVG_PRICE: 0.00
+2026-04-15 00:04:51 | INFO     | [STRATEGY_END] TWAP | COMPLETED 5/5 CHUNKS
+2026-04-15 00:08:07 | INFO    | Binance Client initialized on Testnet.
+2026-04-15 00:08:07 | INFO    | [REQUEST] ACTION: PLACE_ORDER | TYPE: MARKET | SIDE: BUY | QTY: 0.0004 | SYMBOL: BTCUSDT
+2026-04-15 00:08:07 | ERROR   | [FAILURE] MARKET_ORDER | ERROR: APIError(code=-4164): Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-04-15 00:08:07 | ERROR   | CLI Error: APIError(code=-4164): Order's notional must be no smaller than 50 (unless you choose reduce only).
+2026-04-15 00:09:10 | INFO    | Binance Client initialized on Testnet.
+2026-04-15 00:09:10 | INFO    | [REQUEST] ACTION: PLACE_ORDER | TYPE: MARKET | SIDE: BUY | QTY: 0.001 | SYMBOL: BTCUSDT
+2026-04-15 00:09:11 | INFO    | [RESPONSE] ID: 13035308087 | STATUS: NEW | FILL_QTY: 0.0000
+2026-04-15 00:09:11 | INFO    | [PROTECT] ACTION: SET_SL | SYMBOL: BTCUSDT | TRIGGER: 4000.0 | SIDE: OrderSide.SELL
+2026-04-15 00:09:11 | ERROR   | [FAILURE] MARKET_ORDER | ERROR: APIError(code=-1117): Invalid side.
+2026-04-15 00:09:11 | ERROR   | CLI Error: APIError(code=-1117): Invalid side.
+2026-04-15 00:10:02 | INFO    | Binance Client initialized on Testnet.
+2026-04-15 00:10:02 | INFO    | [REQUEST] ACTION: PLACE_ORDER | TYPE: MARKET | SIDE: BUY | QTY: 0.001 | SYMBOL: BTCUSDT
+2026-04-15 00:10:02 | INFO    | [RESPONSE] ID: 13035309503 | STATUS: NEW | FILL_QTY: 0.0000
+2026-04-15 00:10:02 | INFO    | [PROTECT] ACTION: SET_SL | SYMBOL: BTCUSDT | TRIGGER: 55000.0 | SIDE: SELL

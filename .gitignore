@@ -31,9 +31,6 @@ ENV/
 .env.local
 .env.test
 
-# Logs
-*.log
-# trading_bot.log (Uncommented for submission)
 
 # IDEs
 .vscode/
